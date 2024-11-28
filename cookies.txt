@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+script.viserlab.com	TRUE	/	FALSE	1999999999	gdpr_cookie	LottoLab
+script.viserlab.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	cB3lSjWAQ308cOfL7FEoIfowCc5cJN89JJdsqezy
+script.viserlab.com	TRUE	/	FALSE	1999999999	lottolab_session	JEVoSfaGmqleJg4dfJcpRItoXpkGOGpaMa3bYllU
+script.viserlab.com	TRUE	/	FALSE	1999999999	samesite	lax
+
